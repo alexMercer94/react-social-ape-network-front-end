@@ -13,3 +13,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 - @material-ui/core
 - jwt-decode
+- redux
+- react-redux
+- redux-thunk
